@@ -1,0 +1,3 @@
+# Hello World
+Basic Hello World program and other super simple intro functions. 
+Still not sure how exactly packages or modules work though...
