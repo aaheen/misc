@@ -1,4 +1,4 @@
-module sandbox/hello
+module spall/go/hello
 
 go 1.17
 
