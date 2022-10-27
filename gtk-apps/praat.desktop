@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Praat
+Comment=Speech analysis software
+Type=Application
+Exec=praat -P Praat %u
+Icon=/usr/lib64/praat/Praat.png
+Terminal=false
+MimeType=application/praat;
+Categories=AudioVideo;Audio;
+GenericName=Speech Analysis Software
