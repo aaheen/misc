@@ -33,11 +33,13 @@ set GH $HOME/code/src/github.com
 set EAH $GH/eaheen
 set RICE $EAH/rice
 set UMN $HOME/code/src/github.umn.edu/heenx008
+set CFG $HOME/.config/
+set FISH_CFG $CFG/fish/config.fish
 
 # aliases
 alias yoink="sudo dnf install"
-alias fsrc="source $HOME/.config/fish/config.fish"
-alias fcfg="vim $HOME/.config/fish/config.fish && fsrc"
+alias fsrc="source $FISH_CFG"
+alias fcfg="vim $FISH_CFG && fsrc"
 alias cfgOrchis="vim $EAH/misc/sh/orchis-set.sh && orchis-set"
 # alias yeet=""
 # alias upall="echo \>\> Starting pacman upgrade && pacup && echo \n\>\> Starting yay upgrade && yayup"
