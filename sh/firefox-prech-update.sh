@@ -13,32 +13,46 @@ cd "$HOME/Downloads" || exit 1
 # /home/<user>/Downloads/
 
 # Nightly
-printf "\n==== Beginning Nightly update ====\n"
+printf "\n================= Beginning Nightly update =================\n"
+
 wget -O nightly.tar.bz2 "$nightlyURL"
 printf "Extracting files...\n\n"
 tar -xvf nightly.tar.bz2 
-mv firefox firefox-nightly
+mv firefox nightly-download
+
+printf "\nRemoving old binaries"
+sudo rm $installto/firefox-nightly/firefox*
+
 printf "\nInstalling to %s/firefox-nightly/\n" "$installto"
-sudo cp -ru firefox-nightly/* $installto/firefox-nightly
+sudo cp -ru nightly-download/* $installto/firefox-nightly
 
-printf "\nCleaning up Nightly...\n"
+printf "\nCleaning up Nightly\n"
 rm nightly.tar.bz2
-rm -r firefox-nightly
+rm -r nightly-download
 
-printf "\n===========================\n"
+printf "\n=============== Nightly successfully updated ===============\n"
+
 
 # Aurora
-printf "\n==== Beginning Developer Edition update ====\n"
+printf "\n================= Beginning Aurora update ==================\n"
+
 wget -O aurora.tar.bz2 "$auroraURL"
 printf "Extracting files...\n\n"
 tar -xvf aurora.tar.bz2
-mv firefox firefox-aurora
-printf "\nInstalling to %s/firefox-developer/\n" "$installto"
-sudo cp -ru firefox-aurora/* $installto/firefox-developer
+mv firefox aurora-download
 
-printf "\nCleaning up Developer Edition...\n"
+printf "\nRemoving old binaries"
+sudo rm $installto/firefox-developer/firefox*
+
+printf "\nInstalling to %s/firefox-developer/\n" "$installto"
+sudo cp -ru aurora-download/* $installto/firefox-developer
+
+printf "\nCleaning up Aurora\n"
 rm aurora.tar.bz2
-rm -r firefox-aurora
+rm -r aurora-download
+
+printf "\n=============== Aurora successfully updated ================\n"
+
 
 # Return to old directory
 printf "\n"
