@@ -27,21 +27,18 @@ end
 # variables
 
 set -U fish_greeting
-theme.sh helios
+theme.sh nord
 
 set GH $HOME/code/src/github.com
 set EAH $GH/eaheen
-set DOTCFG $HOME/.config
 set RICE $EAH/rice
-set AEM $HOME/code/src/github.umn.edu/heds0002/WindTunnelDAQSW
 set UMN $HOME/code/src/github.umn.edu/heenx008
-set CS4061 $UMN/csci4061
-set CS4041 $UMN/csci4041
 
 # aliases
 alias yoink="sudo dnf install"
 alias fsrc="source $HOME/.config/fish/config.fish"
 alias fcfg="vim $HOME/.config/fish/config.fish && fsrc"
+alias cfgOrchis="vim $EAH/misc/sh/orchis-set.sh && orchis-set"
 # alias yeet=""
 # alias upall="echo \>\> Starting pacman upgrade && pacup && echo \n\>\> Starting yay upgrade && yayup"
 
