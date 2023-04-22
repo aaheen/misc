@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=PyCharm
+Icon=pycharm
+StartupWMClass=jetbrains-pycharm
+Comment=The full-stack Python IDE
+Exec="/home/erik/.local/share/JetBrains/Toolbox/apps/PyCharm-P/ch-0/231.8109.197/bin/pycharm.sh" %u
+Version=1.0
+Type=Application
+Categories=Development;IDE;
+Terminal=false
+StartupNotify=true

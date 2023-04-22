@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=IntelliJ IDEA
+Icon=intellij
+StartupWMClass=jetbrains-idea
+Comment=The Leading Java and Kotlin IDE
+Exec="/home/erik/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/231.8109.175/bin/idea.sh" %u
+Version=1.0
+Type=Application
+Categories=Development;IDE;
+Terminal=false
+StartupNotify=true

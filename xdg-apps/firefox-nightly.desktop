@@ -1,27 +1,27 @@
 [Desktop Entry]
 Version=1.0
-Name=Firefox Developer Edition
+Name=Firefox Nightly
 GenericName=Web Browser
 Comment=Browse the Web
-Exec=/usr/lib64/firefox-developer/firefox --class="firefox-developer" --name firefox-developer -P eaheen %u
-Icon=/usr/lib64/firefox-developer/browser/chrome/icons/default/default128.png
+Exec=/usr/lib64/firefox-nightly/firefox --class="firefox-nightly" --name firefox-nightly -P eaheen %u
+Icon=firefox-nightly
 Terminal=false
 Type=Application
 MimeType=text/html;text/xml;application/xhtml+xml;application/vnd.mozilla.xul+xml;text/mml;x-scheme-handler/http;x-scheme-handler/https;
 StartupNotify=true
-StartupWMClass=firefox-developer
+StartupWMClass=Nightly
 Categories=Network;WebBrowser;
 Keywords=web;browser;internet;
 Actions=new-window;new-private-window;profile-manager;
 
 [Desktop Action new-window]
 Name=New Window
-Exec=/usr/lib64/firefox-developer/firefox --name firefox-developer --new-window -P Developer Edition %u
+Exec=/usr/lib64/firefox-nightly/firefox --name firefox-nightly --new-window -P Nightly %u
 
 [Desktop Action new-private-window]
 Name=New Private Window
-Exec=/usr/lib64/firefox-developer/firefox --name firefox-developer --private-window -P Developer Edition %u
+Exec=/usr/lib64/firefox-nightly/firefox --name firefox-nightly --private-window -P Nightly %u
 
 [Desktop Action profile-manager]
 Name=Profile Manager
-Exec=/usr/lib64/firefox-developer/firefox --name firefox-developer -P %u
+Exec=/usr/lib64/firefox-nightly/firefox --name firefox-nightly -P %u
