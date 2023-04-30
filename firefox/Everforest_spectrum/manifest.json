@@ -1,0 +1,50 @@
+{
+  "manifest_version": 3,
+  "version": "1.1",
+  "name": "Everforest Spectrum",
+  "browser_specific_settings": {
+    "chrome": {
+      "action": {},
+      "default_locale": "en",
+      "description": "A colorful everforest (dark, soft) theme.",
+      "icons": {}
+    },
+    "gecko": {
+      "id": "everforest-spectrum@heen.dev",
+      "strict_min_version": "89.0"
+	  }
+  },
+  "theme": {
+    "colors": {
+      "bookmark_text": [211, 198, 170],
+      "button_background_active": [85, 84, 74],
+      "button_background_hover": [72, 88, 78],
+      "frame": [58, 70, 76],
+      "frame_inactive": [77, 89, 96],
+      "icons_attention": [219, 188, 127],
+      "ntp_background": [51, 60, 67],
+      "ntp_text": [211, 198, 170],
+      "popup": [41, 49, 54],
+      "popup_text": [211, 198, 170],
+      "popup_highlight": [219, 188, 127],
+      "popup_highlight_text": [41, 49, 54],
+      "sidebar": [72, 88, 78],
+      "sidebar_text": [211, 198, 170],
+      "sidebar_border": [72, 88, 78],
+      "sidebar_highlight": [167, 192, 128],
+      "sidebar_highlight_text": [41, 49, 54],
+      "tab_background_text": [127, 187, 179],
+      "tab_line": [51, 60, 67],
+      "tab_loading": [167, 192, 128],
+      "toolbar": [51, 60, 67],
+      "toolbar_bottom_separator": [51, 60, 67],
+      "toolbar_text": [167, 192, 128],
+      "toolbar_field": [51, 60, 67],
+      "toolbar_field_text": [167, 192, 128],
+      "toolbar_field_border": [51, 60, 67],
+      "toolbar_field_border_focus": [51, 60, 67],
+      "toolbar_field_highlight": [230, 126, 128],
+      "toolbar_field_highlight_text": [41, 49, 54]
+    }
+  }
+}
