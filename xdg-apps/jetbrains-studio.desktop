@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Android Studio
-Icon=jetbrains-studio
+Icon=android-studio
 StartupWMClass=jetbrains-studio
 Comment=An IDE for Android app development
 Exec="/home/erik/.local/share/JetBrains/Toolbox/apps/AndroidStudio/ch-0/222.4459.24.2221.9862592/bin/studio.sh" %u
