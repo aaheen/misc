@@ -15,6 +15,8 @@ cd $tmpdir
 
 printf "\n================= Beginning Discord update =================\n"
 
+killall Discord
+
 wget -O discord.tar.gz "$tarballURL"
 printf "Extracting files...\n\n"
 tar -xvf discord.tar.gz
