@@ -22,7 +22,7 @@ printf "Extracting files...\n\n"
 tar -xvf discord.tar.gz
 
 printf "\nInstalling to %s/discord/\n" "$installto"
-mkdir -p $installto
+mkdir -p $installto/discord
 cp -ru $tmpdir/Discord/* $installto/discord/
 
 printf "\nCreating symlink in %s" "$binloc"
