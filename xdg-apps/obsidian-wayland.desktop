@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Obsidian
+Exec=obsidian
+#Exec=obsidian --ozone-platform=wayland --enable-features=UseOzonePlatform,WaylandWindowDecorations 
+Terminal=false
+Type=Application
+#Icon=obsidian
+Icon=/home/august/.local/lib64/obsidian/obsidian.png
+StartupWMClass=obsidian
+X-AppImage-Version=1.5.3
+Comment=Obsidian
+MimeType=x-scheme-handler/obsidian;
+Categories=Office;
