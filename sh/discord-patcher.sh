@@ -6,7 +6,7 @@ binloc="$HOME/.local/bin"
 tarballURL="https://discord.com/api/download/stable?platform=linux&format=tar.gz"
 
 printf "\nKilling Discord bc it's time to cook\n"
-killall Discord
+killall discord
 
 mkdir -p $tmpdir
 cd $tmpdir
@@ -14,8 +14,6 @@ cd $tmpdir
 # /tmp/discord-update/
 
 printf "\n================= Beginning Discord update =================\n"
-
-killall Discord
 
 wget -O discord.tar.gz "$tarballURL"
 printf "Extracting files...\n\n"
@@ -26,8 +24,10 @@ mkdir -p $installto/discord
 cp -ru $tmpdir/Discord/* $installto/discord/
 
 printf "\nCreating symlink in %s" "$binloc"
-unlink $binloc/Discord
-ln -s $installto/discord/Discord $binloc/Discord
+printf "\n"
+unlink $binloc/discord
+
+ln -s $installto/discord/Discord $binloc/discord
 
 printf "\nCleaning up\n"
 rm -r $tmpdir
