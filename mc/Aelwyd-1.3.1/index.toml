@@ -281,43 +281,8 @@ hash = "e1b7575ede41282245f402976e29af128960d7dd4d34827c8068b06e3fdb30a6"
 metafile = true
 
 [[files]]
-file = "mods/jea.pw.toml"
-hash = "f94528a852c02941bd471c278f66f509373e7d19ce58412f8a0b1bce71699a7f"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "7cfcef2f1142baa641151461c3e8f99fcd84f6f9f447cbc16e069a03f5aee8ca"
-metafile = true
-
-[[files]]
 file = "mods/jrftl.pw.toml"
 hash = "72e99142fbc1070fc3ae5957e7de58db91ae124a2ded9682c2fc17c42d89ced9"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-archaeology.pw.toml"
-hash = "f222191613aeed690136f205c906cdde6363d58bf0a3604515abcea73f5e482d"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "8339d8b54bd0598d95bca780fc1ebeb5412bcd14c8b442287389154eea035148"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-professions-jep.pw.toml"
-hash = "051e68cdc04c210afa273cda7e109bea1f08380451593be022db86e6301dff36"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-resources-jer.pw.toml"
-hash = "02977d28acd2089c39dbe5b65fd08e78094fb650b4afc810f757cb5cea1fbda8"
-metafile = true
-
-[[files]]
-file = "mods/justenoughbreeding.pw.toml"
-hash = "253af88538489868e95f6411e87cc9a0e5e6e9b85dc9e2632818d9662e7069f5"
 metafile = true
 
 [[files]]
