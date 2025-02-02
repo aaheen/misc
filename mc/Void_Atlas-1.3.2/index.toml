@@ -481,11 +481,6 @@ hash = "a8941379299b38ed85aea8b21173b4f94d33e9d4f74e8f0c1334b3cf2bd1ae8d"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-nethervinery.pw.toml"
-hash = "5a8a0f814379a07baa3d829f86568b3fdb5b43065fba3b1fc22a6fefab25e552"
-metafile = true
-
-[[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "58e837db042fdd848e6f3b759f1671b2c9671fc9fbbf868f7a1753dc033e9dd4"
 metafile = true
