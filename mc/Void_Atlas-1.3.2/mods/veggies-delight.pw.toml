@@ -1,0 +1,13 @@
+name = "Veggies Delight"
+filename = "veggiesdelight-1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/emQ94xri/versions/JMymPVhV/veggiesdelight-1.6.jar"
+hash-format = "sha512"
+hash = "96c14a716522ae6577c092c86b6eeeb2106ed47ce0f65ac25035f4d505d4c0370ff8b9f90895f311dd9694b48f9211593f7ad57f94b4d3973d7d35dc20f4cc93"
+
+[update]
+[update.modrinth]
+mod-id = "emQ94xri"
+version = "JMymPVhV"

@@ -1,0 +1,13 @@
+name = "Bingus & Floppa"
+filename = "bingus-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VdEsgz29/versions/4AX94uzh/bingus-1.20.1.jar"
+hash-format = "sha512"
+hash = "dde3d89158579a67eee4f6b1a68864df1d484c458c49d597e726a25144cfabde21fa1a3a5dc88c4c50953439d534c9e7f00b0d6878a263491b5a9e5f6d49352c"
+
+[update]
+[update.modrinth]
+mod-id = "VdEsgz29"
+version = "4AX94uzh"
