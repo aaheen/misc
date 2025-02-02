@@ -286,6 +286,11 @@ hash = "f16dfc4974f1483563468741ce0d3c5a10d14ba2d15096cb311e65c0b9f29df0"
 metafile = true
 
 [[files]]
+file = "mods/fairy-lights.pw.toml"
+hash = "eeca094798607a0393a5ec261a0f3298e20fa74b0daa879951aec47c2c7fe64b"
+metafile = true
+
+[[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "9603820d581a491036461500b9bf463ec82f8dc00d4c80813e5da84ce43e8a50"
 metafile = true
@@ -698,6 +703,11 @@ metafile = true
 [[files]]
 file = "mods/pizza-delight.pw.toml"
 hash = "edb2551935e9ef385af4f9674dbd5f4c9bb66a73639206d99854e8e574762c42"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "50579877561744484c4174f4ec196863cbba113e75f1b88023972d45dfa8fa8d"
 metafile = true
 
 [[files]]
