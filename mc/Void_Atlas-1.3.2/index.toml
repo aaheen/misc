@@ -41,6 +41,11 @@ hash = "4832575af4fab2b691cc82c106a4a2e4da4136eab77d7360bc3b1250fc6f1656"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "0da374c8d515130f459027cb737c27e59f18ffa4b57796b946893159987d0562"
+metafile = true
+
+[[files]]
 file = "mods/bamboo-everything.pw.toml"
 hash = "21b3719cc727afefef00ff1e5d278af322921857e109bca738de906877351c92"
 metafile = true
@@ -186,6 +191,11 @@ hash = "605f7351ee4f4cec0f33ac6693e08c004d13ddf383af74fe1c5a8877ad92a805"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "1ad27ac63d9c939149112a6cfdddd9ef00fb9be26b1d824ba3540dbdd62e1f48"
+metafile = true
+
+[[files]]
 file = "mods/crying-portals.pw.toml"
 hash = "bda2d332c096e66541206d0fec13426d5459c488b7d15b404ba244c20029aa1e"
 metafile = true
@@ -226,6 +236,21 @@ hash = "35e3ed00b7e0b2a3082ed35c677589ca762cd73e18858ad6ba7a4b6f7cdef441"
 metafile = true
 
 [[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "0c73b88a7cb7cfb35e2660ebab85c30b7d1ffe153a69d61f05dd075dd78b513d"
+metafile = true
+
+[[files]]
+file = "mods/dynamictrees.pw.toml"
+hash = "055975e058c3e735f2aabf7fa7785e5bb0b81d8759580528949aac623b720578"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "efa598f3db21596ff5b46cc175d56606d627c40690459a1d497981ca5fc174d3"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
@@ -243,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "738bca478ab07a0273e2f9ba8ca292dc1381d8e5860f15fbd3d25a7d26a3a949"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "3136d2fa3cd097330976de6517806fb9a306b60a9c2f9f3845d1289cad11b8c4"
 metafile = true
 
 [[files]]
@@ -286,6 +316,11 @@ hash = "abec4606eba32fd985e0630315f124446840d195fb8d23d8aeb1b1700ca7c22e"
 metafile = true
 
 [[files]]
+file = "mods/forgiving-void.pw.toml"
+hash = "48cd054000672e0716de97763391e6a925dc8cc29d78c31097ab86bc2d1f9c59"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes-beekeeper-hut-forge.pw.toml"
 hash = "820142b7322a4aef0e08008c3dc9fb840e26d4dd869c2a6787dcab4ae48c5e7b"
 metafile = true
@@ -318,6 +353,16 @@ metafile = true
 [[files]]
 file = "mods/grass-seeds.pw.toml"
 hash = "5dad479fdd6d115b6b5643cb7e1757433eb44b5004f731f64a37bf59d79302a2"
+metafile = true
+
+[[files]]
+file = "mods/guard-villagers.pw.toml"
+hash = "af611db48c7c591bffe5100b284423e8c6282bcbd3b86a12fed2f954f3b1f46d"
+metafile = true
+
+[[files]]
+file = "mods/hajcraft.pw.toml"
+hash = "225a219f2637bbf587f40e0e2a30234a78d685f420bfd13f5fadf5791f49ebfb"
 metafile = true
 
 [[files]]
@@ -596,6 +641,16 @@ hash = "f307adfc1f8df46b70a311f8084ef2d81408a14a1861158db1fa56bf1ce0903a"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "fe1c8024d788448e46f6d7bd19c61a5dc1f8f5eda5a6b37bf68d3cf688de1935"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "362ead0883974a7de4dd711a75ccfe71b2ceadf172211934e8cd6084977c0f49"
+metafile = true
+
+[[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "a1d3b1b3f1a9ec557cbe63ea70dfc6f7048312ae5f807a7f0ebaa3278dcef594"
 metafile = true
@@ -653,6 +708,11 @@ metafile = true
 [[files]]
 file = "mods/replanting-crops.pw.toml"
 hash = "0b40e13e395a19f201e9cb36bfbd9727a33b3c9f91f6769b909a522cbf42eb0d"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "26ee02ad42278b3050bbd31e66d3d8ad774ed4e46f27dbb34a30f54a5a9617fe"
 metafile = true
 
 [[files]]
@@ -756,6 +816,21 @@ hash = "6ce057ddb0fff22e9b9f74ee5b027f1be369ca05259974e3e83db152061d2cfb"
 metafile = true
 
 [[files]]
+file = "mods/unifiedoptions.pw.toml"
+hash = "15b6b8bbbb3f7e0e7fc7db84f014225768537f0a864938be4606aefb8084f090"
+metafile = true
+
+[[files]]
+file = "mods/universal-sawmill.pw.toml"
+hash = "6bca71dea3e1199f71a40f2b9f7bc60d4cd7b104c81fa7aee58d184619c41ce7"
+metafile = true
+
+[[files]]
+file = "mods/vampirism.pw.toml"
+hash = "9a01dcea6b632ace5c9f13109c0a9e59d551058ce1c3add987408fe836b3b7ee"
+metafile = true
+
+[[files]]
 file = "mods/vegan-delight.pw.toml"
 hash = "431a4d4efe83d1dec90791e04e9cb912a17f00e45178682c35a6b35510c825c2"
 metafile = true
@@ -788,6 +863,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "152c6732da180e958fb29f492bae2e468d4dfd423ce4d3d0d31ef31c2eec6c61"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "532f07775974b695733981b2548859d3bc76c743781a5da5035d40fd6e485ab0"
 metafile = true
 
 [[files]]
