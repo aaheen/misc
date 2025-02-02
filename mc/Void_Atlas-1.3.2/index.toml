@@ -246,11 +246,6 @@ hash = "0c73b88a7cb7cfb35e2660ebab85c30b7d1ffe153a69d61f05dd075dd78b513d"
 metafile = true
 
 [[files]]
-file = "mods/dynamictrees.pw.toml"
-hash = "055975e058c3e735f2aabf7fa7785e5bb0b81d8759580528949aac623b720578"
-metafile = true
-
-[[files]]
 file = "mods/ears.pw.toml"
 hash = "efa598f3db21596ff5b46cc175d56606d627c40690459a1d497981ca5fc174d3"
 metafile = true
