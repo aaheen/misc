@@ -125,7 +125,7 @@ packwiz -y modrinth install https://modrinth.com/mod/gOQjCAAD
 packwiz -y modrinth install https://modrinth.com/mod/vvuO3ImH
 
 # Custom Window Title [1.2.0]
-packwiz -y modrinth install https://www.curseforge.com/projects/360673
+packwiz -y curseforge install https://www.curseforge.com/projects/360673
 
 # Cycle Paintings [3.6]
 packwiz -y modrinth install https://modrinth.com/mod/c85whkNB
@@ -170,7 +170,7 @@ packwiz -y modrinth install https://modrinth.com/mod/RV1qfVQ8
 packwiz -y modrinth install https://modrinth.com/mod/S4eFpJFD
 
 # Fairy Lights [7.0.0]
-packwiz -y modrinth install https://www.curseforge.com/projects/233342
+packwiz -y curseforge install https://www.curseforge.com/projects/233342
 
 # FallingTree [4.3.4]
 packwiz -y modrinth install https://modrinth.com/mod/Fb4jn8m6
@@ -380,7 +380,7 @@ packwiz -y modrinth install https://modrinth.com/mod/QM2wt9X3
 packwiz -y modrinth install https://modrinth.com/mod/Cb5J3sNW
 
 # Polymorph [0.49.8+1.20.1]
-packwiz -y modrinth install https://www.curseforge.com/projects/388800
+packwiz -y curseforge install https://www.curseforge.com/projects/388800
 
 # Prism [1.0.5]
 packwiz -y modrinth install https://modrinth.com/mod/1OE8wbN0
