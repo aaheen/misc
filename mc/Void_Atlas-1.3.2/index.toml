@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
-hash = "58e837db042fdd848e6f3b759f1671b2c9671fc9fbbf868f7a1753dc033e9dd4"
+hash = "be126314758f0ff2a70b56825f698c9ea6a72ce537d5327a3f013962ec4db352"
 metafile = true
 
 [[files]]
