@@ -1,16 +1,13 @@
-filename = 'endportalrecipe-1.20.1-5.5.jar'
-name = 'End Portal Recipe'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "End Portal Recipe"
+filename = "endportalrecipe-1.20.1-5.7.jar"
+side = "server"
 
 [download]
-hash = 'ad95b8c7de61592d2bde7a58fc0d39ddf2ef798bf45353a52081b985664fc95e66c513c5efb0334717188c4d8da9a8277cd54b40fb96c7717ad64bfed9d6fc71'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/VbCjkvcq/versions/kMGXPiLj/endportalrecipe-1.20.1-5.5.jar'
+url = "https://cdn.modrinth.com/data/VbCjkvcq/versions/laOcMdQ2/endportalrecipe-1.20.1-5.7.jar"
+hash-format = "sha512"
+hash = "e0ee5de490a9e7b241da43ee843081a443b54f8ae8e359d10bd6949b7c28946f8c9c326f507f9343ea344d99070e95e0b454e350ab0c6fc3aaecefa4cb6e67b3"
 
+[update]
 [update.modrinth]
-mod-id = 'VbCjkvcq'
-version = 'kMGXPiLj'
+mod-id = "VbCjkvcq"
+version = "laOcMdQ2"

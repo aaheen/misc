@@ -1,16 +1,13 @@
-filename = 'fixedanvilrepaircost-1.20.1-3.4.jar'
-name = 'Fixed Anvil Repair Cost'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Fixed Anvil Repair Cost"
+filename = "fixedanvilrepaircost-1.20.1-3.5.jar"
+side = "server"
 
 [download]
-hash = 'cf07c89c2a7d98b56c8d5458f825231f3fa47076ff83b3b23f687efca37e14be5df7bcfc8deed0c645f721eeafe1792083cdd50f2dfd6571b554f973f66d76c0'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/jmLyNFBG/versions/wcnSdq3t/fixedanvilrepaircost-1.20.1-3.4.jar'
+url = "https://cdn.modrinth.com/data/jmLyNFBG/versions/fDXv4XYw/fixedanvilrepaircost-1.20.1-3.5.jar"
+hash-format = "sha512"
+hash = "caf0b4b2a86a94793328c9c278989261e01f48429fa27409fa83f8fcdede7a8399f266448c3899db3a95d71e939de9a382aed8cd59ab61944549b53ff9c881d6"
 
+[update]
 [update.modrinth]
-mod-id = 'jmLyNFBG'
-version = 'wcnSdq3t'
+mod-id = "jmLyNFBG"
+version = "fDXv4XYw"

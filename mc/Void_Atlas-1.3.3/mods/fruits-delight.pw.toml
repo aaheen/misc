@@ -1,16 +1,13 @@
-filename = 'fruitsdelight-1.0.16.jar'
-name = 'Fruits Delight'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Fruits Delight"
+filename = "fruitsdelight-1.0.16.jar"
+side = "both"
 
 [download]
-hash = '7b2b74154aa1b2af7acf1ce2b6bfe705caf50797d0114c5c5094801916f6f872800ddad5f71b6a6eeec0b8ba406ce05eb93e0903337e7299916d3d95c07695eb'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/g6sbyCTu/versions/AdvXVw6l/fruitsdelight-1.0.16.jar'
+url = "https://cdn.modrinth.com/data/g6sbyCTu/versions/AdvXVw6l/fruitsdelight-1.0.16.jar"
+hash-format = "sha512"
+hash = "7b2b74154aa1b2af7acf1ce2b6bfe705caf50797d0114c5c5094801916f6f872800ddad5f71b6a6eeec0b8ba406ce05eb93e0903337e7299916d3d95c07695eb"
 
+[update]
 [update.modrinth]
-mod-id = 'g6sbyCTu'
-version = 'AdvXVw6l'
+mod-id = "g6sbyCTu"
+version = "AdvXVw6l"

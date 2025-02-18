@@ -1,16 +1,13 @@
-filename = 'letsdo-wildernature-forge-1.0.4.jar'
 name = "[Let's Do] WilderNature"
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
+filename = "letsdo-wildernature-forge-1.0.5.jar"
+side = "both"
 
 [download]
-hash = 'e42af9f4fed8476515db1ccf78457ad939e162d57d7d73a5ce5a3a7daa897777359b0617d71f8977a6702e5fa8e65402ae6ff9ccdb61263b3578d44d1ba7a5ef'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/AAiRU4aQ/versions/msftwPhj/letsdo-wildernature-forge-1.0.4.jar'
+url = "https://cdn.modrinth.com/data/AAiRU4aQ/versions/qR7hZ2XI/letsdo-wildernature-forge-1.0.5.jar"
+hash-format = "sha512"
+hash = "04b909e101c4e27d58add8897eccf0f31e7c17995db85095b133f9b97ca9ea7b8743c8ecd546326af47c3e537256a13651f6942d2818fd7ae1f34de6cf23018d"
 
+[update]
 [update.modrinth]
-mod-id = 'AAiRU4aQ'
-version = 'msftwPhj'
+mod-id = "AAiRU4aQ"
+version = "qR7hZ2XI"

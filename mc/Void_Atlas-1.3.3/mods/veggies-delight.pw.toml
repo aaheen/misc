@@ -1,16 +1,13 @@
-filename = 'veggiesdelight-1.6.jar'
-name = 'Veggies Delight'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Veggies Delight (A Farmer's Delight Add-on)"
+filename = "veggiesdelight-1.7.jar"
+side = "both"
 
 [download]
-hash = '96c14a716522ae6577c092c86b6eeeb2106ed47ce0f65ac25035f4d505d4c0370ff8b9f90895f311dd9694b48f9211593f7ad57f94b4d3973d7d35dc20f4cc93'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/emQ94xri/versions/JMymPVhV/veggiesdelight-1.6.jar'
+url = "https://cdn.modrinth.com/data/emQ94xri/versions/3PdbTpFp/veggiesdelight-1.7.jar"
+hash-format = "sha512"
+hash = "08a465f66b1744cb03f04cd134fc7d00f94ded67bffaba506c02bf6a3dd8fa9f0428edcca28fd964e5a77d4fff08c444f804f50f8317ad47f313e7196719f092"
 
+[update]
 [update.modrinth]
-mod-id = 'emQ94xri'
-version = 'JMymPVhV'
+mod-id = "emQ94xri"
+version = "3PdbTpFp"

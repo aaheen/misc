@@ -1,16 +1,13 @@
-filename = 'NaturesAura-39.4.jar'
 name = "Nature's Aura"
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+filename = "NaturesAura-39.4.jar"
+side = "both"
 
 [download]
-hash = 'db075a28ff6e6c7775f3a9dcc62fb781b699965cdfb2ef9586b19c652df800feaf4e6e841c1aa574f9d593f402a790018534c220e6564a05dd56716315ae8075'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/4cJkN3aF/versions/8UiPp0gC/NaturesAura-39.4.jar'
+url = "https://cdn.modrinth.com/data/4cJkN3aF/versions/8UiPp0gC/NaturesAura-39.4.jar"
+hash-format = "sha512"
+hash = "db075a28ff6e6c7775f3a9dcc62fb781b699965cdfb2ef9586b19c652df800feaf4e6e841c1aa574f9d593f402a790018534c220e6564a05dd56716315ae8075"
 
+[update]
 [update.modrinth]
-mod-id = '4cJkN3aF'
-version = '8UiPp0gC'
+mod-id = "4cJkN3aF"
+version = "8UiPp0gC"

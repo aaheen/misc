@@ -1,16 +1,13 @@
-filename = 'healingcampfire-1.20.1-6.1.jar'
-name = 'Healing Campfire'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Healing Campfire"
+filename = "healingcampfire-1.20.1-6.2.jar"
+side = "server"
 
 [download]
-hash = 'e25cf94109d988ebad8e763f91e7180a7d49d41e8efbe7a724ec0907eea177b9479c53c0c520c83548cf4ec00f191afa31cbec9d6db3f8e4b1e3526c9d2c602b'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/kOuPUitF/versions/sfesmy1R/healingcampfire-1.20.1-6.1.jar'
+url = "https://cdn.modrinth.com/data/kOuPUitF/versions/olxRjKsI/healingcampfire-1.20.1-6.2.jar"
+hash-format = "sha512"
+hash = "141603dc3ab64744dbd1eef380b386dfcf606230186185f8d5cb98ca44034aa9d774820ab81ff273ec30e417afcf6d733768e98d6cfe120fe840a0c375e1f0e3"
 
+[update]
 [update.modrinth]
-mod-id = 'kOuPUitF'
-version = 'sfesmy1R'
+mod-id = "kOuPUitF"
+version = "olxRjKsI"

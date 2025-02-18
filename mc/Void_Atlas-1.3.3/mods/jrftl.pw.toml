@@ -1,16 +1,13 @@
-filename = 'JRFTL-1.20.1-1.6.0.jar'
-name = 'Just Another Rotten Flesh to Leather Mod'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Just Another Rotten Flesh to Leather Mod"
+filename = "JRFTL-1.20.1-1.6.0.jar"
+side = "both"
 
 [download]
-hash = '5dd21cfbb0212e3a919b3a94ed6b8949a38ba702ff365bd0adf02f427bf4500e9e92df810cb2e2010b2949eaf478d0469e0df9d8fc12ce28c2c017939a5f3205'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/8nIicBYu/versions/lHLTx4dM/JRFTL-1.20.1-1.6.0.jar'
+url = "https://cdn.modrinth.com/data/8nIicBYu/versions/lHLTx4dM/JRFTL-1.20.1-1.6.0.jar"
+hash-format = "sha512"
+hash = "5dd21cfbb0212e3a919b3a94ed6b8949a38ba702ff365bd0adf02f427bf4500e9e92df810cb2e2010b2949eaf478d0469e0df9d8fc12ce28c2c017939a5f3205"
 
+[update]
 [update.modrinth]
-mod-id = '8nIicBYu'
-version = 'lHLTx4dM'
+mod-id = "8nIicBYu"
+version = "lHLTx4dM"

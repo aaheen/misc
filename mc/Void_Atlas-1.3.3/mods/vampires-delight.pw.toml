@@ -1,16 +1,13 @@
-filename = 'VampiresDelight-1.20.1-0.1.7c.jar'
 name = "Vampire's Delight"
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
+filename = "VampiresDelight-1.20.1-0.1.7c.jar"
+side = "both"
 
 [download]
-hash = '246c132e6122017d29092ddf76add4f7f787d151d3a5129e35d5ceae8da315599a56a6329485c40a94bb8e2dccc59426798d368a252a7e214f2d21c14e50237a'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/9Vo2deFq/versions/EyrYeQyY/VampiresDelight-1.20.1-0.1.7c.jar'
+url = "https://cdn.modrinth.com/data/9Vo2deFq/versions/EyrYeQyY/VampiresDelight-1.20.1-0.1.7c.jar"
+hash-format = "sha512"
+hash = "246c132e6122017d29092ddf76add4f7f787d151d3a5129e35d5ceae8da315599a56a6329485c40a94bb8e2dccc59426798d368a252a7e214f2d21c14e50237a"
 
+[update]
 [update.modrinth]
-mod-id = '9Vo2deFq'
-version = 'EyrYeQyY'
+mod-id = "9Vo2deFq"
+version = "EyrYeQyY"

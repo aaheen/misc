@@ -1,16 +1,13 @@
-filename = 'letsdo-meadow-forge-1.3.22.jar'
 name = "[Let's Do] Meadow"
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+filename = "letsdo-meadow-forge-1.3.23.jar"
+side = "both"
 
 [download]
-hash = 'b3fced57e91c47d9710b514bfa7997631ef6c2582c357fc508a1cd8773c7ef7a727b1902eee881b1860ec682331394a701cc980165c3dad3512267e9b48fe426'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/ra7o6Sl7/versions/1GyHsaUm/letsdo-meadow-forge-1.3.22.jar'
+url = "https://cdn.modrinth.com/data/ra7o6Sl7/versions/WC7iKkpn/letsdo-meadow-forge-1.3.23.jar"
+hash-format = "sha512"
+hash = "de1dc8e44acec2a4da2d0be0cf912d2b28d0971868ca7818873d7af81f257dd58725bb71edb8d1ab51d5c20f08c908d5b8da75136bf0764c1b25f920371b028a"
 
+[update]
 [update.modrinth]
-mod-id = 'ra7o6Sl7'
-version = '1GyHsaUm'
+mod-id = "ra7o6Sl7"
+version = "WC7iKkpn"

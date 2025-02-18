@@ -1,16 +1,13 @@
-filename = 'PrettyPipes-1.20.1-all.jar'
-name = 'Pretty Pipes'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'beta'
+name = "Pretty Pipes"
+filename = "PrettyPipes-1.15.0-all.jar"
+side = "both"
 
 [download]
-hash = '57b981b1003ca76888436deed00f38b0f81c0ae5198417473f5497188fd0f77137e3edf358aa408365da5499bb070a002b7025b4787d2e8afb35c6858db662b3'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/XExdLWCQ/versions/dpWSk2aj/PrettyPipes-1.20.1-all.jar'
+url = "https://cdn.modrinth.com/data/XExdLWCQ/versions/LqsTdtjN/PrettyPipes-1.15.0-all.jar"
+hash-format = "sha512"
+hash = "1b021f9479c861f69d94b50337784ac25b20ecec83f847ca6b4835e8b37f1c099df27e249441070945486eb5990aaf68cfbf1ae4b16085db017e2d5ebf2e7bcb"
 
+[update]
 [update.modrinth]
-mod-id = 'XExdLWCQ'
-version = 'dpWSk2aj'
+mod-id = "XExdLWCQ"
+version = "LqsTdtjN"

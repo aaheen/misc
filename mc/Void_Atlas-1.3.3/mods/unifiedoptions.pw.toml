@@ -1,0 +1,13 @@
+name = "UnifiedOptions"
+filename = "unifiedoptions-1.20.1-1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GGd1161d/versions/rVbX3li2/unifiedoptions-1.20.1-1.1.jar"
+hash-format = "sha512"
+hash = "819f08f10e1a1a0e14264bb68a07859ab64ec3a38108f402ea9e97ce6ce4eedb357740141b98546efdea3d7a87cd03d14aff3ac0559a1ba9c6d9452021ce6da8"
+
+[update]
+[update.modrinth]
+mod-id = "GGd1161d"
+version = "rVbX3li2"

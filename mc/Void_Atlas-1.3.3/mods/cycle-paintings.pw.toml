@@ -1,16 +1,13 @@
-filename = 'cyclepaintings-1.20.1-3.6.jar'
-name = 'Cycle Paintings'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Cycle Paintings"
+filename = "cyclepaintings-1.20.1-3.7.jar"
+side = "server"
 
 [download]
-hash = '276311310cb9f3d39ac04b99d397e2e4e3363469d5377ce1fe44b02f3d834cb7273817a2fc4cd836eac0cdb4942d2b5a483fd77bdfd8ae65e5471ede3f3c60d8'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/c85whkNB/versions/qtgGJN2o/cyclepaintings-1.20.1-3.6.jar'
+url = "https://cdn.modrinth.com/data/c85whkNB/versions/l2qsxL9o/cyclepaintings-1.20.1-3.7.jar"
+hash-format = "sha512"
+hash = "84d2682b2e4a70f70a7e04ac4ea3eefc9735846b24b013c2e52e23a6ea7f992544e1f2f80655e3f4dcbac36b46a064129d3653d3e25e9f7cc3a4b658a7f2c9f1"
 
+[update]
 [update.modrinth]
-mod-id = 'c85whkNB'
-version = 'qtgGJN2o'
+mod-id = "c85whkNB"
+version = "l2qsxL9o"

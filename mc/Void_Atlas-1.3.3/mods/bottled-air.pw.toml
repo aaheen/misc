@@ -1,16 +1,13 @@
-filename = 'bottledair-1.20.1-2.4.jar'
-name = 'Bottled Air'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Bottled Air"
+filename = "bottledair-1.20.1-2.5.jar"
+side = "server"
 
 [download]
-hash = '7eea737f2dfa3ad83296e087baf08ba0d21b511487f1ec21277c6132aa58dee03509a2e6240b81a614bb4cb9b9fbe50ca9c363b93b288b5d850bbc48c885d2cb'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/hvrrNux3/versions/ugOK1Sx2/bottledair-1.20.1-2.4.jar'
+url = "https://cdn.modrinth.com/data/hvrrNux3/versions/ZkZHaSE1/bottledair-1.20.1-2.5.jar"
+hash-format = "sha512"
+hash = "c028069a158f02b526c97cf28ec50efeed527ff3460df00e70b60cc64824f9664ed84b412d8e860f440a0c0786b78782717e4fb742ccdcd42ef0303b62e570a6"
 
+[update]
 [update.modrinth]
-mod-id = 'hvrrNux3'
-version = 'ugOK1Sx2'
+mod-id = "hvrrNux3"
+version = "ZkZHaSE1"

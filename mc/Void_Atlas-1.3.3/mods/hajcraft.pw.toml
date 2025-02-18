@@ -1,16 +1,13 @@
-filename = 'hajcraft-1.1.0-forge-1.20.1.jar'
-name = 'HajCraft'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "HajCraft"
+filename = "hajcraft-1.1.0-forge-1.20.1.jar"
+side = "both"
 
 [download]
-hash = '0f765d00a3078d6aaacc0dbde6c5ecf6e99a2139246485f245da50ea112aaed38080d264c1795cbaa5a0228a693936523718872c16281db570cc7fcae6108c61'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/K1YKPXzI/versions/fcjLIhTY/hajcraft-1.1.0-forge-1.20.1.jar'
+url = "https://cdn.modrinth.com/data/K1YKPXzI/versions/fcjLIhTY/hajcraft-1.1.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "0f765d00a3078d6aaacc0dbde6c5ecf6e99a2139246485f245da50ea112aaed38080d264c1795cbaa5a0228a693936523718872c16281db570cc7fcae6108c61"
 
+[update]
 [update.modrinth]
-mod-id = 'K1YKPXzI'
-version = 'fcjLIhTY'
+mod-id = "K1YKPXzI"
+version = "fcjLIhTY"

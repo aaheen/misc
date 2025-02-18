@@ -1,16 +1,13 @@
-filename = 'rusticdelight-forge-1.20.1-1.3.2.jar'
-name = 'Rustic Delight'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Rustic Delight"
+filename = "rusticdelight-forge-1.20.1-1.4.0.jar"
+side = "both"
 
 [download]
-hash = '5dbe09720dd31a866bec07f51ab24e6a56d67cc0724042c395b84f0f93f28821061bf0eae70ed506e4282387d656c1f92814dabbceb3edeec13efbe6e8162c1c'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/foa4fGIH/versions/LTHTw7x5/rusticdelight-forge-1.20.1-1.3.2.jar'
+url = "https://cdn.modrinth.com/data/foa4fGIH/versions/agYs7Hoy/rusticdelight-forge-1.20.1-1.4.0.jar"
+hash-format = "sha512"
+hash = "12f3aa95188082cb85d10831a2fd435ab9bd9bd7d53d59e6de5bcdeec9ea3dad9b1aae26615ca894a3270699cb13d88e3e13d7ffdb4fd423849cce4ab5ebecd5"
 
+[update]
 [update.modrinth]
-mod-id = 'foa4fGIH'
-version = 'LTHTw7x5'
+mod-id = "foa4fGIH"
+version = "agYs7Hoy"

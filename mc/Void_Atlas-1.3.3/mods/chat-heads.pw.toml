@@ -1,16 +1,13 @@
-filename = 'chat_heads-0.13.11-forge-1.20.jar'
-name = 'Chat Heads'
-side = 'client'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Chat Heads"
+filename = "chat_heads-0.13.13-forge-1.20.jar"
+side = "client"
 
 [download]
-hash = '0f8f81afdbbcac9b53634cd07e419399007724d347f4881ba10162b912b521d3506d65370592365edb8c6e5e6827ee1e348af74faa965b1c9beb81daa3f367c1'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/Wb5oqrBJ/versions/DrF1cdOv/chat_heads-0.13.11-forge-1.20.jar'
+url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/PXpM1WCy/chat_heads-0.13.13-forge-1.20.jar"
+hash-format = "sha512"
+hash = "8b990fcdab738d73c03186a0e8fb6abc7927855fb8cbf38896757db8cd9df12178425ba8f8db05b9aaa42aa2eb43a6b356c7e0dd2db31de13b588878afcd5200"
 
+[update]
 [update.modrinth]
-mod-id = 'Wb5oqrBJ'
-version = 'DrF1cdOv'
+mod-id = "Wb5oqrBJ"
+version = "PXpM1WCy"
