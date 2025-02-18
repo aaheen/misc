@@ -14,7 +14,7 @@ packwiz mr install -y https://modrinth.com/mod/6iTJugQR
 packwiz mr install -y https://modrinth.com/mod/bd8nwTGy
 
 # Apotheosis [7.4.6]
-packwiz mr install -y https://www.curseforge.com/projects/313970
+packwiz cf install -y https://www.curseforge.com/projects/313970
 
 # Apotheosis Artifacts [1.0.1.1-1.20.1]
 packwiz mr install -y https://modrinth.com/mod/GIAFvYa1
@@ -26,7 +26,7 @@ packwiz mr install -y https://modrinth.com/mod/Isgtel6o
 packwiz mr install -y https://modrinth.com/mod/qCh3lNQ3
 
 # Apothic Attributes [1.3.7]
-packwiz mr install -y https://www.curseforge.com/projects/898963
+packwiz cf install -y https://www.curseforge.com/projects/898963
 
 # AppleSkin [2.5.1+mc1.20.1]
 packwiz mr install -y https://modrinth.com/mod/EsAfCjCV
@@ -38,7 +38,7 @@ packwiz mr install -y https://modrinth.com/mod/lhGA9TYQ
 packwiz mr install -y https://modrinth.com/mod/GYK6Gk8R
 
 # Ars Nouveau [4.12.6]
-packwiz mr install -y https://www.curseforge.com/projects/401955
+packwiz cf install -y https://www.curseforge.com/projects/401955
 
 # Ars Nouveau Artifacts [1.0.2.1-1.20.1]
 packwiz mr install -y https://modrinth.com/mod/ufAUOfNm
@@ -158,7 +158,7 @@ packwiz mr install -y https://modrinth.com/mod/gOQjCAAD
 packwiz mr install -y https://modrinth.com/mod/vvuO3ImH
 
 # Custom Window Title [1.2.0]
-packwiz mr install -y https://www.curseforge.com/projects/360673
+packwiz cf install -y https://www.curseforge.com/projects/360673
 
 # Cycle Paintings [3.6]
 packwiz mr install -y https://modrinth.com/mod/c85whkNB
@@ -185,7 +185,7 @@ packwiz mr install -y https://modrinth.com/mod/ZcR9weSm
 packwiz mr install -y https://modrinth.com/mod/mfzaZK3Z
 
 # Easy Paxel Lite [1.20.1-1.0.3]
-packwiz mr install -y https://www.curseforge.com/projects/476520
+packwiz cf install -y https://www.curseforge.com/projects/476520
 
 # Embeddium [0.3.31+mc1.20.1]
 packwiz mr install -y https://modrinth.com/mod/sk9rgfiA
@@ -212,7 +212,7 @@ packwiz mr install -y https://modrinth.com/mod/RV1qfVQ8
 packwiz mr install -y https://modrinth.com/mod/S4eFpJFD
 
 # Fairy Lights [7.0.0]
-packwiz mr install -y https://www.curseforge.com/projects/233342
+packwiz cf install -y https://www.curseforge.com/projects/233342
 
 # FallingTree [4.3.4]
 packwiz mr install -y https://modrinth.com/mod/Fb4jn8m6
@@ -434,7 +434,7 @@ packwiz mr install -y https://modrinth.com/mod/nU0bVIaL
 packwiz mr install -y https://modrinth.com/mod/Cb5J3sNW
 
 # Placebo [8.6.2]
-packwiz mr install -y https://www.curseforge.com/projects/283644
+packwiz cf install -y https://www.curseforge.com/projects/283644
 
 # Polymorph [0.49.8+1.20.1]
 packwiz mr install -y https://modrinth.com/mod/tagwiZkJ
@@ -515,7 +515,7 @@ packwiz mr install -y https://modrinth.com/mod/VdEsgz29
 packwiz mr install -y https://modrinth.com/mod/hYGSXIE7
 
 # Tool Belt [1.20.02]
-packwiz mr install -y https://www.curseforge.com/projects/260262
+packwiz cf install -y https://www.curseforge.com/projects/260262
 
 # Tool Trims [2.2.1]
 packwiz mr install -y https://modrinth.com/mod/uXeEiQk1

@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "minecraft-nameless.pw.toml"
+hash = "e79fd07b908d3abe25b06386f45785f09c93bbb594ecbcc26af25b9ae8814fc3"
+metafile = true
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "e648a83707d4ddfedd27a6459c32853e4565f19eaa388246484857c053444930"
 metafile = true
@@ -883,11 +888,6 @@ metafile = true
 [[files]]
 file = "mods/ubes-delight.pw.toml"
 hash = "6ce057ddb0fff22e9b9f74ee5b027f1be369ca05259974e3e83db152061d2cfb"
-metafile = true
-
-[[files]]
-file = "mods/unifiedoptions.pw.toml"
-hash = "15b6b8bbbb3f7e0e7fc7db84f014225768537f0a864938be4606aefb8084f090"
 metafile = true
 
 [[files]]
