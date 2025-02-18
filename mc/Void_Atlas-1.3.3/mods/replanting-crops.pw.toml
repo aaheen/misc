@@ -1,0 +1,16 @@
+filename = 'replantingcrops-1.20.1-5.4.jar'
+name = 'Replanting Crops'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '54a08f990168c5e9834669f019702a1fa8c65a03992a80be17865c2f4a35abab9e0e91e30826f0b556eab5edf546730d9d75336cf754dffc9492b433e5c88219'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EXzIPtJo/versions/YjQdTUEq/replantingcrops-1.20.1-5.4.jar'
+
+[update.modrinth]
+mod-id = 'EXzIPtJo'
+version = 'YjQdTUEq'

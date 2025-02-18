@@ -1,0 +1,16 @@
+filename = 'respawningshulkers-1.20.1-4.0.jar'
+name = 'Respawning Shulkers'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bf439a264b6ced415c333a14e4378219744a5e6fe8f7a6c2c72a4c42882635402c4484135feac879598f2d7fda0a1be63ba4241ab9de21a6706f1364a770581e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gHCmhGUV/versions/hI3yBP6x/respawningshulkers-1.20.1-4.0.jar'
+
+[update.modrinth]
+mod-id = 'gHCmhGUV'
+version = 'hI3yBP6x'

@@ -1,0 +1,16 @@
+filename = 'improvedsignediting-1.20.1-1.4.jar'
+name = 'Improved Sign Editing'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a9bb59ea866dece0af7b60de98220e93728cea4b607ac391c7ba3b587113e623074dac319cf99a7ce99467bb3912e8ed36f51a0ce94b04be4c16fac3615ec1c3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EWQifKYI/versions/5PmUFTZE/improvedsignediting-1.20.1-1.4.jar'
+
+[update.modrinth]
+mod-id = 'EWQifKYI'
+version = '5PmUFTZE'

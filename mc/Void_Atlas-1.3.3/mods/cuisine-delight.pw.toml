@@ -1,0 +1,16 @@
+filename = 'cuisinedelight-1.1.16.jar'
+name = 'Cuisine Delight'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4472e160269579512150e13cfef37ce1032c2cb60299ef9cef499ba3875cfc609a0a596b8c3234a8c5c2e156c3f786794de3633805c020e2d00cefb8626f4bdf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gOQjCAAD/versions/8N27V2V5/cuisinedelight-1.1.16.jar'
+
+[update.modrinth]
+mod-id = 'gOQjCAAD'
+version = '8N27V2V5'

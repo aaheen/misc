@@ -1,0 +1,16 @@
+filename = 'justenoughbreeding-neoforge-1.20.1-1.5.0.jar'
+name = 'Just Enough Breeding (JEBr)'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e8d63a637b88799e11bfc0d5e990c0966b21cc887257eb51fb488668ef9e0723d4db82379a6e49eb41fb8dd11c7c7934348064ba66fdff016a42167d46f2fc12'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9Pk89J3g/versions/U6uatmJP/justenoughbreeding-neoforge-1.20.1-1.5.0.jar'
+
+[update.modrinth]
+mod-id = '9Pk89J3g'
+version = 'U6uatmJP'

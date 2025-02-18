@@ -1,0 +1,16 @@
+filename = 'followersteleporttoo-1.20.1-2.6.jar'
+name = 'Followers Teleport Too'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5c24269d70315811340388f9765249aa667eb44b331b4b3e0776c80cd3e5d28595da80de77e1ed5c9354ea1c0836c9172dba3ee156adda2a01e56c74a37c9082'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/E5YVNsbH/versions/lJh7sUcy/followersteleporttoo-1.20.1-2.6.jar'
+
+[update.modrinth]
+mod-id = 'E5YVNsbH'
+version = 'lJh7sUcy'

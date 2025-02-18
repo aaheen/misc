@@ -1,0 +1,16 @@
+filename = 'extractpoison-1.20.1-3.4.jar'
+name = 'Extract Poison'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0ebaa61bbae4334a3f313247d053d0b9bb21540419df5c3608741e6c6962df9ec35833d01874d6a4b217673be4fed37a31b298ee10b2017688a7b864da947827'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/S4eFpJFD/versions/OJ5DX2u5/extractpoison-1.20.1-3.4.jar'
+
+[update.modrinth]
+mod-id = 'S4eFpJFD'
+version = 'OJ5DX2u5'

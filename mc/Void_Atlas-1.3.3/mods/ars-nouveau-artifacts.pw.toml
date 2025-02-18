@@ -1,0 +1,16 @@
+filename = 'arsnouveauartifacts-1.0.2.1-1.20.1.jar'
+name = 'Ars Nouveau Artifacts'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3fbded430035bea56634937c821f2966ffcb0f396e1c19e6c7b1a549666c96c5ff5c543960c720a058e2821f49a57fd61a415223a0ba915044b7b35a10b8cc9b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ufAUOfNm/versions/2YWKVkwE/arsnouveauartifacts-1.0.2.1-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'ufAUOfNm'
+version = '2YWKVkwE'

@@ -1,0 +1,16 @@
+filename = 'createsupplementaries-1.0.2.1-1.20.1.jar'
+name = 'Create Supplementaries'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4383f19e06d3f3047f463faa4b1cd6f2d12ab7c3ea94d8a8d2b27a8cf6108d0789ee55b7cdd1ef4577b993598702806f9a4d29e59c121e5e36cb4e6a70d78073'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qtT0lV29/versions/TmscWxTJ/createsupplementaries-1.0.2.1-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'qtT0lV29'
+version = 'TmscWxTJ'

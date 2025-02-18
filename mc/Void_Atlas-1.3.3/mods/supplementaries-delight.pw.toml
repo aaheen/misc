@@ -1,0 +1,16 @@
+filename = 'supplementariesdelight-1.1.0-1.20.1.jar'
+name = 'Supplementaries Delight'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '20c173ca2555b7778d5caf80bc982b5c1834d6632300fea4039c0e9bf3434ab212a6f38ea7725ed090e3ab533188d2fb571170e71663547f928abd0637861b59'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SivjJhqG/versions/TXbLq0Yf/supplementariesdelight-1.1.0-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'SivjJhqG'
+version = 'TXbLq0Yf'

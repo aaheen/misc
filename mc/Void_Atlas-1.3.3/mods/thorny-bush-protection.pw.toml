@@ -1,0 +1,16 @@
+filename = 'thornybushprotection-1.20.1-1.4.jar'
+name = 'Thorny Bush Protection'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '905c694b819d97b0467cbc8d7d9e0446c2e78d5cc4a016a413c23f9b7802688a60525480c13a06f28ab7aa8050a5c072af5f7fc90d710dc0930f0fcb0f402a45'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hYGSXIE7/versions/LrkTNWhg/thornybushprotection-1.20.1-1.4.jar'
+
+[update.modrinth]
+mod-id = 'hYGSXIE7'
+version = 'LrkTNWhg'
