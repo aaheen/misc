@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "superheated",
+  "ingredients": [
+    {
+      "item": "minecraft:dirt"
+    },
+    {
+      "item": "minecraft:gold_nugget"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:netherrack"
+    }
+  ]
+}
