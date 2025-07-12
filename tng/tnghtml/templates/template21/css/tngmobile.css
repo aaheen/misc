@@ -1,0 +1,15 @@
+﻿@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css);
+
+#mheader {margin: -10px 0 0 0; padding: 0;}
+.mmaintitle {font-family: 'Philosopher';font-size: 28pt;text-shadow: 0.6px 0.6px #000;color: #931813;}
+body {background-color: #fff;}
+#mast {background: #931813 linear-gradient(#931813, #f43034, #931813)!important; border-top: 1px solid #7777777;}
+.mhead ul li {color: #fff;}
+.mhead li a {background-color: #931813; border-bottom: 1px solid #aaaaaa; border-top: 1px solid #dddddd; color: #fff;}
+.mhead li a:hover {background-color: #c00000; border-bottom: 1px solid #aaaaaa; border-top: 1px solid #dddddd; color: #fff;}
+
+/* ======== Mobile Footer======== */
+.mobilefooter {background: linear-gradient(135deg, #931813, #f43034, #931813)!important; margin-top: -35px; padding: 0 0 8px 0; font-size: 90%; color:#fff; text-align:center; line-height:13px;}
+.mobilefooter a {color: #fef4f5!important; font-weight: normal; text-decoration: none; outline: none;}
+.mobilefooter a:hover {color: #fff!important; text-decoration: none; font-weight: normal; outline: none;}
+.mobilefooter .btn-lg {text-align: center;}

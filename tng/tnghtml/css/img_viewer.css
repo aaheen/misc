@@ -1,0 +1,120 @@
+/* if you don't want a transparent background on your viewer, you
+   can enter a specific color here */
+body {
+    background: transparent;
+}
+
+.magnifier {
+    position: absolute;
+    border: solid 1px #000;
+    cursor: move;
+    background-repeat: no-repeat;
+    background-color: #FFF;
+}
+		
+.magnifierShadow {
+    position: absolute;
+    background: transparent;
+    padding: 0;
+    margin: 0;
+}
+		
+.controller {
+    vertical-align: top;
+}
+		
+.controllerContainer {
+    height: 34px;
+    background: #EEE;
+    border: solid 1px #aaa;
+    padding: 4px;
+    position: relative;
+    z-index: 100000;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.controllerText {
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px;
+    margin: 5px 5px 0px 5px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+.controllerButton {
+    margin: 0px 5px 0px 5px;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    vertical-align: bottom;
+    height: 25px;
+    border-radius: 8px;
+}
+
+.controllerPan  {
+    margin: 0px 5px 0px 5px;
+    border: solid 1px #EEE;
+    vertical-align: bottom;
+    opacity: 0.3;
+    cursor: pointer;
+}
+
+.controllerPanSelected {
+    margin: 0px 5px 0px 5px;
+    vertical-align: bottom;
+    background: #DDD;
+    border-left: solid 1px #111;
+    border-top: solid 1px #111;
+    border-right: solid 1px #FFF;
+    border-bottom: solid 1px #FFF;
+}
+
+.controllerClose {
+    margin-top: 8px;
+    margin-right: 8px;
+    float: right;
+    cursor: pointer;
+}
+
+.controllerMag {
+    border: solid 1px #EEE;
+    margin: 0px 5px 0px 10px;
+    vertical-align: bottom;
+    opacity: 0.3;
+    cursor: pointer;
+}
+
+.controllerMagSelected {
+    margin: 0px 5px 0px 10px;
+    background: #DDD;
+    border-left: solid 1px #111;
+    border-top: solid 1px #111;
+    border-right: solid 1px #FFF;
+    border-bottom: solid 1px #FFF;
+    vertical-align: bottom;
+}
+
+.controllerImage {
+    margin: 5px 0px 0px 5px;
+    background: #EEE;
+    vertical-align: bottom;
+}
+
+.zoomSelector {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    margin: 0px 5px 0px 5px;
+    vertical-align: bottom;
+    height: 25px;
+}
+
+.breakLine {
+    vertical-align: bottom;
+}
+
+.canvas {
+	background-color: #F9F9F9;
+	text-align: center;
+	border: 0px;
+}
+

@@ -1,0 +1,32 @@
+body {
+  background-color: #EFE5D5;
+  background-image: none;
+}
+
+#mast {
+  background-color: #318390;
+  background-image: -webkit-linear-gradient(to bottom, #318390 0%, #318390 100%);
+  background-image: linear-gradient(to bottom, #318390 0%, #318390 100%);
+  border-top: 1px solid #CA81BE;
+}
+
+.mhead ul li {
+  color: #FFFFFF;
+}
+
+.mhead li a {
+  background-color: #dddddd;
+  border-bottom: 1px solid #666666;
+  border-top: 1px solid #EEFAEC;
+  text-shadow: white 1px 1px 1px;
+  color: #000000;
+}
+
+.mmaintitle {
+  opacity: 1.0;
+}
+
+.mhead li a:hover {
+  background-color: #6bbdcb; 
+  text-decoration:none;
+}
