@@ -1,0 +1,13 @@
+name = "Ube's Delight"
+filename = "ubesdelight-forge-1.20.1-0.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PYjpoAys/versions/KOFkSh2P/ubesdelight-forge-1.20.1-0.3.2.jar"
+hash-format = "sha512"
+hash = "29608c6a5752a2c0634706e3c0dc50ded590a0f4bb41071fda47c24274c98e34542d62d24abc6f6b5e90c7ed41e1e4688355b4e8be74e45be9388c7e218435e7"
+
+[update]
+[update.modrinth]
+mod-id = "PYjpoAys"
+version = "KOFkSh2P"

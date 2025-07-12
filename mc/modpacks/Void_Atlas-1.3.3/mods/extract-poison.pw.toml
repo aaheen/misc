@@ -1,0 +1,13 @@
+name = "Extract Poison"
+filename = "extractpoison-1.20.1-3.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/S4eFpJFD/versions/d8t8ljrP/extractpoison-1.20.1-3.5.jar"
+hash-format = "sha512"
+hash = "848722bee1b81c188bbc54424a82954b6641de71aaf567fe0bd5bfd34c5194da06cc223e5cd69e28d7b57592bc8a3c25b8d85c86843de2d9a0d2dbb0e8384dd3"
+
+[update]
+[update.modrinth]
+mod-id = "S4eFpJFD"
+version = "d8t8ljrP"

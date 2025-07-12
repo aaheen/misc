@@ -1,0 +1,13 @@
+name = "Ars Nouveau Delight"
+filename = "arsnouveaudelight-1.1.0.4-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XjqM4mMx/versions/1PgJSfEC/arsnouveaudelight-1.1.0.4-1.20.1.jar"
+hash-format = "sha512"
+hash = "8ec16b82f7d1c72ba708542851405193db977a2b4818bfc3b598c70503ca38cac1d968074398bb01de16d465b4e273f26875dfd22c5826c0aa404e17f7885c19"
+
+[update]
+[update.modrinth]
+mod-id = "XjqM4mMx"
+version = "1PgJSfEC"

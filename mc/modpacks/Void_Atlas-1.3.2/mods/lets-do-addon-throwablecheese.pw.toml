@@ -1,0 +1,13 @@
+name = "[Let's Do Addon] ThrowableCheese"
+filename = "throwablecheese-forge-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mmxlzX6T/versions/h4jTR7if/throwablecheese-forge-1.0.2.jar"
+hash-format = "sha512"
+hash = "629b5050ddbcd30c0582745b13530952e8e6cd5cf730c69fec0564000a6647ade99280abecf4b5b2f4076ae399e830f30cbdc260d09651e0f222c57f2688d5af"
+
+[update]
+[update.modrinth]
+mod-id = "mmxlzX6T"
+version = "h4jTR7if"

@@ -1,0 +1,13 @@
+name = "[Let's Do] Meadow"
+filename = "letsdo-meadow-forge-1.3.22.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ra7o6Sl7/versions/1GyHsaUm/letsdo-meadow-forge-1.3.22.jar"
+hash-format = "sha512"
+hash = "b3fced57e91c47d9710b514bfa7997631ef6c2582c357fc508a1cd8773c7ef7a727b1902eee881b1860ec682331394a701cc980165c3dad3512267e9b48fe426"
+
+[update]
+[update.modrinth]
+mod-id = "ra7o6Sl7"
+version = "1GyHsaUm"

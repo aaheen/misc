@@ -1,0 +1,13 @@
+name = "Apotheosis Artifacts"
+filename = "apotheosisartifacts-1.0.1.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GIAFvYa1/versions/Q66gfWzc/apotheosisartifacts-1.0.1.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "daf2dd2761927feb7aaa7bc617aef1820731adebcd84c84266c8ba5336719877db7ba6aa85b9ee55f385272b9d93f922c2789eade26f5ae5c32c2177cda9e221"
+
+[update]
+[update.modrinth]
+mod-id = "GIAFvYa1"
+version = "Q66gfWzc"

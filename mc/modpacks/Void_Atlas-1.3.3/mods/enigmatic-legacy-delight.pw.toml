@@ -1,0 +1,13 @@
+name = "Enigmatic Legacy Delight"
+filename = "enigmaticlegacydelight-1.1.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4kibTwHn/versions/94MioMg9/enigmaticlegacydelight-1.1.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "8072453e85c88cebdb3c8f40219d86a795547de813f5e45b2dd0ac60478b460d593158700f562dfae86a0cfded437fb777368d47c0189e64850a6ff28cff11da"
+
+[update]
+[update.modrinth]
+mod-id = "4kibTwHn"
+version = "94MioMg9"

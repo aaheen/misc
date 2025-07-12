@@ -1,0 +1,13 @@
+name = "Coffee Delight"
+filename = "CoffeeDelight-Forge-1.20.1-1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jn1HiMrY/versions/Lgx0crUI/CoffeeDelight-Forge-1.20.1-1.5.1.jar"
+hash-format = "sha512"
+hash = "0ffd207a4ecf8800eec0b29ae53b6666a0a77a29f5c227ec02e83654c442f3e6028af11e0d6264fff08dcdbbdf98b13eea375ee4234aa986b39875873688fe25"
+
+[update]
+[update.modrinth]
+mod-id = "jn1HiMrY"
+version = "Lgx0crUI"

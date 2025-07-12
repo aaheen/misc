@@ -1,0 +1,13 @@
+name = "Nature's Aura Delight"
+filename = "naturesauradelight-1.1.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/i1z52iUm/versions/cCF4bgD7/naturesauradelight-1.1.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "872361712dc7311339043181c934087ef17c2234886fa5f48c314fbd76a909f2ed43476db4900e755563b55c3750a20632c848fd0ce7f863224e2032aa267564"
+
+[update]
+[update.modrinth]
+mod-id = "i1z52iUm"
+version = "cCF4bgD7"

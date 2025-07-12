@@ -1,0 +1,13 @@
+name = "Ars Nouveau Artifacts"
+filename = "arsnouveauartifacts-1.0.2.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ufAUOfNm/versions/2YWKVkwE/arsnouveauartifacts-1.0.2.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "3fbded430035bea56634937c821f2966ffcb0f396e1c19e6c7b1a549666c96c5ff5c543960c720a058e2821f49a57fd61a415223a0ba915044b7b35a10b8cc9b"
+
+[update]
+[update.modrinth]
+mod-id = "ufAUOfNm"
+version = "2YWKVkwE"

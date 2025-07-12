@@ -1,0 +1,13 @@
+name = "Rustic Delight"
+filename = "rusticdelight-forge-1.20.1-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/foa4fGIH/versions/agYs7Hoy/rusticdelight-forge-1.20.1-1.4.0.jar"
+hash-format = "sha512"
+hash = "12f3aa95188082cb85d10831a2fd435ab9bd9bd7d53d59e6de5bcdeec9ea3dad9b1aae26615ca894a3270699cb13d88e3e13d7ffdb4fd423849cce4ab5ebecd5"
+
+[update]
+[update.modrinth]
+mod-id = "foa4fGIH"
+version = "agYs7Hoy"

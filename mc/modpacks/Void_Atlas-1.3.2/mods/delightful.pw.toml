@@ -1,0 +1,13 @@
+name = "Delightful"
+filename = "Delightful-1.20.1-3.6.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JtSnhtNJ/versions/1k0UH9LB/Delightful-1.20.1-3.6.2.jar"
+hash-format = "sha512"
+hash = "741969ed9794a3968cc8ad6e878886d3ee1cf84c9d53515a7187b1a3c028dd83b3d0b006df51d937743d9ce0f25d3aa37dc5ed453e20ff7ba5932941b84f58cf"
+
+[update]
+[update.modrinth]
+mod-id = "JtSnhtNJ"
+version = "1k0UH9LB"
